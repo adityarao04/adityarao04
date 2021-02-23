@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[adityarao1999.ar@gmail.com]
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Humans are the only animals that blush.
--->💼I'm currently an intern at...ClearExam as a Sofware Developer
+- 💼 I'm currently an intern at...ClearExam as a Sofware Developer
