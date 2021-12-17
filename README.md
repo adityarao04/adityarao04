@@ -8,4 +8,4 @@
 - 📫 How to reach me: adityarao1999.ar@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Humans are the only animals that blush.
-- 💼 I'm currently an intern at farziEngineer as a Sofware Developer
+- 💼 I'm currently an intern at farziEngineer as a Frontend Developer
